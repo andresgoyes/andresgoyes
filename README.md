@@ -1,5 +1,6 @@
-<div id="header" align="center">
-	<img src='https://avatars.githubusercontent.com/u/86809993?v=4' alt='github'/>
+<a href='https://www.threads.net/@devfluencer_'><img src="https://raw.githubusercontent.com/andresgoyes/andresgoyes/09723f9ab7ce59e3cc568f3f42bfb84bfcb1dd45/DevFluencer.svg"/></a>
+
+<div id="header" align="center">	
 	<h1 align="center">Hi👋, I´m Andres Goyes - DevFluencer</h1>
 	<h3 align="center">
 		👨‍💻 Full Stack MERN Developer | 🚀 Agile methodologies | 🌟 Persist Learning
