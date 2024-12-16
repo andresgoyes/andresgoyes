@@ -7,7 +7,7 @@
 	</h3>
 </div>
 <div align="center">
-<h2>👨🏻‍💻 About Me 👾</h2>
+<h2><a href="https://andresgoyes.github.io/portfolio/">👨🏻‍💻 About Me 👾</a></h2>
 </div>
 <div style="text-align: center;" >
   <p style="text-align: right;">- 🗨️ Ask Me, about: <strong>React, React js, Redux, Node js, MongoDB, Express, Java, Javasctript, Python, HTML</strong></p>
