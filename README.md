@@ -1,4 +1,4 @@
-<a href='https://www.threads.net/@devfluencer_'><img src="https://raw.githubusercontent.com/andresgoyes/andresgoyes/3d8e68c285c454f7b6f2f649cae32cd094d662d1/DevFluencer_.svg"/></a>
+<a href='https://www.tiktok.com/@devfluencer'><img src="https://raw.githubusercontent.com/andresgoyes/andresgoyes/3d8e68c285c454f7b6f2f649cae32cd094d662d1/DevFluencer_.svg"/></a>
 
 <div id="header" align="center">	
 	<h1 align="center">I´m Andres Goyes - DevFluencer</h1>
